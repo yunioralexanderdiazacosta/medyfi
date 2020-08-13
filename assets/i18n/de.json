@@ -1,0 +1,18 @@
+{
+	"HOME": "Zuhause",
+	"ABOUT_US": "Über uns",
+	"CAREER": "Werdegang",
+	"SERVICES": "Dienstleistungen",
+	"CONTACT": "Kontakt",
+	"INFORMATION": "Informationen",
+	"COPYRIGHT": "Urheberrechte",
+	"ALL_RIGHT_RESERVED": "Alle Rechte vorbehalten",
+	"ENGLISH": "Englisch",
+	"GERMAN": "Deutsche",
+
+	"ABOUT": {
+		"WHO_WE_ARE": "WER WIR SIND",
+		"PARAGRAPH_1": "MedyFi, unsere medizinische Transportplattform für Patientenreisen, wurde als erstes Patientenreiseportal und App entwickelt, um diesen Service zu vereinfachen und einen sicheren und zuverlässigen Patiententransport zu gewährleisten. Durch die Kombination moderner Technologie mit einem vereinfachten Ansatz ermöglicht unser System allen im medizinischen Transportsektor Beteiligten - Transportdienstleistern, Vermittlern, Krankenhäusern und Betreuern - die einfache Verwaltung von Buchungen und die Überwachung von Transporten",
+		"PARAGRAPH_2": "Als erstklassige NEMT-Versandsoftware / -system zur Verwaltung und Automatisierung von Versandvorgängen können Krankenhäuser ihre Patienten schnell entlassen, während sie sich ihrer Sicherheit sicher sind, indem sie einen zertifizierten NEMT-Anbieter einstellen. Bieten Sie den NEMT-Unternehmen die Möglichkeit, sich auf ihr Hauptgeschäft zu konzentrieren und Reiseanfragen über ihre Telefone und E-Mails zu erhalten, und ermöglichen Sie ihnen, das geeignete Fahrzeug zum richtigen Zeitpunkt zu versenden"
+	}
+}

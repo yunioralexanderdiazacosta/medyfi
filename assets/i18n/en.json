@@ -1,0 +1,18 @@
+{
+	"HOME": "Home",
+	"ABOUT_US": "About Us",
+	"CAREER": "Career",
+	"SERVICES": "Services",
+	"CONTACT": "Contact",
+	"INFORMATION": "Information",
+	"COPYRIGHT":"Copyright",
+	"ALL_RIGHT_RESERVED": "All right reserved",
+	"ENGLISH": "English",
+	"GERMAN": "German",
+
+	"ABOUT": {
+		"WHO_WE_ARE": "WHO WE ARE",
+		"PARAGRAPH_1": "MedyFi, our medical transport platform for patient journeys, was developed as the first patient journey portal and app to simplify this service and to ensure safe, reliable patient transport. By combining modern technology with a simplified approach, our system enables everyone involved in the medical transportation sector - transport service providers, intermediaries, hospitals and carers - to easily manage bookings and monitor transports.",
+		"PARAGRAPH_2": "A world class NEMT dispatch software/system to manage & automate dispatch operations, Allow Hospitals to discharge their patients quickly while been sure about their safety, by hiring certified NEMT provider. provide the opportunity to the NEMT companies to focus on their main business and receives  trip enquiries at their phones, email, and allow them to dispatch the suitable vehicle at the right time"
+	}
+}

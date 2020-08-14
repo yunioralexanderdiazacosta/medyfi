@@ -18,7 +18,7 @@ import {
 import { TranslateHttpLoader } from "@ngx-translate/http-loader";
 
 export function HttpLoaderFactory(http: HttpClient){
-  return new TranslateHttpLoader(http, "/BASEHREF/assests/i18n", ".json");
+  return new TranslateHttpLoader(http, "/medyfi/assests/i18n", ".json");
 }
 
 @NgModule({

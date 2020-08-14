@@ -17,6 +17,10 @@ import {
 } from "@ngx-translate/core";
 import { TranslateHttpLoader } from "@ngx-translate/http-loader";
 
+export function HttpLoaderFactory(http: HttpClient){
+  return new TranslateHttpLoader(http, "/BASEHREF/assests/i18n", ".json");
+}
+
 @NgModule({
   declarations: [
     AppComponent,

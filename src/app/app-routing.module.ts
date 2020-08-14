@@ -11,11 +11,13 @@ const routes: Routes = [
 	},
 	{
 		path: 'home',
-		component: HomeComponent
+		component: HomeComponent,
+		data: { animation: 'Home'}
 	},
 	{
 		path: 'about',
-		component: AboutComponent
+		component: AboutComponent,
+		data: { animation: 'About'}
 	}
 ];
 
